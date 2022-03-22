@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226467913880",
+    "project_id": "lunar-diamond",
+    "storage_bucket": "lunar-diamond.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226467913880:android:adc53afa28618c9597f0ed",
+        "android_client_info": {
+          "package_name": "com.nianticlabs.pikmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226467913880-74e9738rdgpfb80m41vsqmto7gn4iqmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkdJsYH4ll5oPBVbc5jtaf5nDqlIGkfBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226467913880-74e9738rdgpfb80m41vsqmto7gn4iqmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
